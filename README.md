@@ -36,7 +36,6 @@ You use this application by installing locally on your web server or using the H
 * [Argon Dashboard](https://demos.creative-tim.com/argon-dashboard/)
 * [Bootstrap 4](https://getbootstrap.com)
 * [PHP 7](https://php.net)
-* [PHP Secure Communications Library](https://github.com/phpseclib/phpseclib)
 * [JQuery](https://jquery.com)
 
 
