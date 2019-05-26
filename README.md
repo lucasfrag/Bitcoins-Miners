@@ -16,14 +16,15 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+You use this application by installing locally on your web server or using the Heroku platform address.
 
 
 ### Prerequisites
 
 - Bitcoin Wallet
 
+### Heroku
+[https://bitcoins-miners.herokuapp.com/](https://bitcoins-miners.herokuapp.com/)
 
 ### Installation
 
