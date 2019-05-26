@@ -2,13 +2,13 @@
 <p align="center">
   <img src="assets/img/logo.png" alt="Logo" width="80" height="80">
   <h3 align="center">Bitcoins Miners</h3>
-  <p align="center">Aplicação Web para mineração de Bitcoins em múltiplas plataformas online.
+  <p align="center">Web application for Bitcoins mining in several online platforms.
   <br>
       <a href="">Feedback</a>
       ·
-      <a href="https://github.com/lucasfrag/Kali-Linux-Tools-Interface/issues">Report Bug</a>
+      <a href="https://github.com/lucasfrag/Bitcoins-Miners/issues">Report Bug</a>
       ·
-      <a href="https://github.com/lucasfrag/Kali-Linux-Tools-Interface/issues">Request Feature</a>
+      <a href="https://github.com/lucasfrag/Bitcoins-Miners/issues">Request Feature</a>
   </p>
 </p>
 
@@ -22,22 +22,17 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-- A Debian-based distribution (preferably [Kali Linux](https://www.kali.org/))
-- Apache / Nginx service running
-- SSH Service running
-- Shell In A Box (if you want to use the Terminal)
-  - To install <b>Shell In A Box</b>, use the following command: `sudo apt-get install shellinabox`
+- Bitcoin Wallet
 
 
 ### Installation
 
 1. Extract the contents to the folder of your web server.
-2. Create a database called `kali` in MySQL and import the file `assets/database.sql`.
-3. Edit the file `assets/includes/config.php` and set yours settings.
-4. Enjoy!
+2. Enjoy!
 
 
 ### Built With
+* [Argon Dashboard](https://demos.creative-tim.com/argon-dashboard/)
 * [Bootstrap 4](https://getbootstrap.com)
 * [PHP 7](https://php.net)
 * [PHP Secure Communications Library](https://github.com/phpseclib/phpseclib)
