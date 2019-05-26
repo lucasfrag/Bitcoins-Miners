@@ -44,6 +44,6 @@ To get a local copy up and running follow these simple example steps.
 
 Lucas Fraga - ti.lucasfraga@gmail.com
 
-Project Link: [https://github.com/lucasfrag/Kali-Linux-Tools-Interface](https://github.com/lucasfrag/Kali-Linux-Tools-Interface)
+Project Link: [https://github.com/lucasfrag/Bitcoins-Miners](https://github.com/lucasfrag/Bitcoins-Miners)
 
 
