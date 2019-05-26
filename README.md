@@ -1,18 +1,10 @@
 <!-- LOGO -->
 <p align="center">
   <img src="assets/img/logo.png" alt="Logo" width="80" height="80">
-  <h3 align="center">Kali Linux Tools Interface</h3>
-  <p align="center">A graphical interface for using the Kali Linux tools through the browser.
-    <br />
-      <a href="https://medium.com/@ti.lucasfraga/documenta%C3%A7%C3%A3o-do-projeto-final-de-ads-f80a1117841f">
-        <strong>
-          Explore the docs »
-        </strong><br>
-          (Available only in Portuguese 🇧🇷)
-        </a>
-      <br />
-      <br />
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLSd3GeoAqW05PDLmlyrCaeQu877HyRyzE8Sk0E5p9w2XWV1k0Q/viewform">Feedback</a>
+  <h3 align="center">Bitcoins Miners</h3>
+  <p align="center">Aplicação Web para mineração de Bitcoins em múltiplas plataformas online.
+  <br>
+      <a href="">Feedback</a>
       ·
       <a href="https://github.com/lucasfrag/Kali-Linux-Tools-Interface/issues">Report Bug</a>
       ·
