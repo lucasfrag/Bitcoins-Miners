@@ -29,7 +29,7 @@
         </button>
       </div>
       <div class="modal-body">
-        <iframe id ="iframe-btcprominer" src="http://btcprominer.life/"></iframe>
+        <iframe id ="iframe-btcprominer" src="https://btcprominer.life/"></iframe>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>

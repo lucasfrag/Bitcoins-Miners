@@ -40,7 +40,7 @@
 						        <p class="card-text" id="bitcoins-bitminer">
 						        	<img src="assets/img/btcprominer.png" width="150px">
 						        </p>
-						        <a href="http://btcprominer.life/" target="_blank" class="btn btn-secondary">Ir para página</a>
+						        <a href="https://btcprominer.life/" target="_blank" class="btn btn-secondary">Ir para página</a>
 						        <button class="btn btn-primary" data-toggle="modal" data-target="#modal-btcprominer">Abrir Visualização</button>
 						      </div>
 						    </div>
