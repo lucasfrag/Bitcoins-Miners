@@ -25,9 +25,9 @@
 						      <div class="card-body">
 						        <h5 class="card-title">BitMiner</h5>
 						        <p class="card-text" id="bitcoins-bitminer">
-
+						        	<img src="assets/img/bitminer.png" width="150px">
 						        </p>
-						        <a href="" target="_blank" class="btn btn-secondary">Ir para página</a>
+						        <a href="https://bitminer.io/" target="_blank" class="btn btn-secondary">Ir para página</a>
 						        <button class="btn btn-primary" data-toggle="modal" data-target="#modal-bitminer">Abrir Visualização</button>
 						      </div>
 						    </div>
@@ -38,7 +38,7 @@
 						      <div class="card-body">
 						        <h5 class="card-title">BTCProMiner</h5>
 						        <p class="card-text" id="bitcoins-bitminer">
-
+						        	<img src="assets/img/btcprominer.png" width="150px">
 						        </p>
 						        <a href="http://btcprominer.life/" target="_blank" class="btn btn-secondary">Ir para página</a>
 						        <button class="btn btn-primary" data-toggle="modal" data-target="#modal-btcprominer">Abrir Visualização</button>
@@ -51,7 +51,7 @@
 						      <div class="card-body">
 						        <h5 class="card-title">StartMiner</h5>
 						        <p class="card-text" id="bitcoins-bitminer">
-
+						        	<img src="assets/img/startminer.png" width="150px">
 						        </p>
 						        <a href="https://www.startminer.com/" target="_blank" class="btn btn-secondary">Ir para página</a>
 						        <button class="btn btn-primary" data-toggle="modal" data-target="#modal-startminer">Abrir Visualização</button>
