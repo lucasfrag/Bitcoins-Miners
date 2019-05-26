@@ -4,7 +4,7 @@
 <div class="row align-items-center justify-content-xl-between">
   <div class="col-xl-5">
     <div class="copyright text-center text-xl-left text-muted">
-      &copy; 2019 <a href="https://github.com/lucasfrag/Kali-Linux-Tools-Interface" class="font-weight-bold ml-1" target="_blank">Bitcoin</a>
+      &copy; 2019 <a href="https://github.com/lucasfrag/Bitcoins-Miners" class="font-weight-bold ml-1" target="_blank">Bitcoins Miners</a>
     </div>
   </div>
   <div class="col-xl-5">
